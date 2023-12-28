@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1S1bmoglJQaoNsy_Potoy7FQOIahTipWmNubiTVyj3aY/edit?usp=sharing
 
 Project title:
-Detection of Ocular disease using Federated Learning
+Detection of Ocular disease using Transfer and Federated Learning
 
 Group Number:
 27
