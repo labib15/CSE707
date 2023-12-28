@@ -6,7 +6,7 @@ https://youtu.be/I49tkHRa0Mc
 
 
 Paper title:
-Detection of Ocular disease using Federated Learning
+Detection of Ocular disease using Transfer and Federated Learning
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1LfAIPgW5Q0nBHQbiBWbnyoGFRy9Eo3jl6MeWzQnDbI4/edit?usp=sharing
