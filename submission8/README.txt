@@ -28,7 +28,13 @@ did something else
 ...
 
 was active in slack:
-https://bucse713summer2023.slack.com/archives/C05B7CQMLMT/p1693901820366729?thread_ts=1693901475.517819&cid=C05B7CQMLMT
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1697979187536089?thread_ts=1697979069.221079&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1703744941354979?thread_ts=1701001837.013579&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1703744998879259?thread_ts=1701004874.729669&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1703745028517509?thread_ts=1701005457.247389&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1702046820756039?thread_ts=1701008172.665279&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1701612648475399?thread_ts=1701611827.219999&cid=C060LGZL4QZ
+https://bucse707fall2023.slack.com/archives/C060LGZL4QZ/p1701612308892009?thread_ts=1701612118.858459&cid=C060LGZL4QZ
 
 
 Submitter:
