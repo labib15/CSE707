@@ -1,10 +1,9 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-
-Unlisted YouTube video:
+https://www.overleaf.com/project/6584b0e35100dfca4393e2b7
 
 
 Paper title:
-Detection of Ocular disease using Transfer and Federated Learning
+Advancements and Challenges in Brain Tumor Detection via Federated Learning: A Comprehensive Review
 
 
 Group Number:
