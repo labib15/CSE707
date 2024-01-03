@@ -13,7 +13,6 @@ Detection of Ocular disease using Transfer and Federated Learning
 Group Number:
 27
 
-
 Group Members:
 23366010  Bushra Rafia Chowdhury
 23366028  Sadia Tasnim
