@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1XiXsHsR5Vkr2H5uxEnHNvUmJcf06zf7FBLUd1J3O8eo/edit?usp=sharing
 
 Paper title:
 FedSL: Federated split learning on distributed sequential data in recurrent neural networks
