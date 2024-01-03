@@ -19,7 +19,9 @@ https://youtu.be/GSt00_-0ncQ?feature=shared
 https://www.youtube.com/watch?v=V_xro1bcAuA
 
 completed book:
-http://book
+https://drive.google.com/file/d/1a1dqqE0DwJTBoActcY67qOPlWamd3VdX/view?usp=sharing (chapter 1)
+https://drive.google.com/file/d/1iYPCX94oaOdjCbLVkmPsw2-TzCgWSu3L/view?usp=sharing
+
 
 did project:
 .....
