@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/ev39bGkmzU4
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+----------
 
 Paper title:
 Detection of Ocular disease using Transfer and Federated Learning
@@ -14,16 +14,15 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1BbHWbKjO5BMSPcyPM7FvUNHBZK3N3yvsuqBRCACELzk/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-25 October 1999
-
+----------
 Paper submission ID: (received) from conference/workshop
-1341234
+----------
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+----------
 
 Conference URL:
-http://confsite/...
+----------
 
 Group Number:
 27
